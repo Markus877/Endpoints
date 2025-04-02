@@ -11,9 +11,9 @@ import com.example.service.ProjectService;
 
 @SpringBootApplication
 @ComponentScan(basePackages = "com.example")
-public class EjEndpointsApplication {
+public class EjEndpoints2Application {
     public static void main(String[] args) {
-        SpringApplication.run(EjEndpointsApplication.class, args);
+        SpringApplication.run(EjEndpoints2Application.class, args);
     }
 
     @Bean
